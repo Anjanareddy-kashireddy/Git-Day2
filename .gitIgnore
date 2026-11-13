@@ -1,0 +1,4 @@
+*.log
+*.application
+*.py
+demo/*

@@ -1,3 +1,5 @@
 This is a Stash file.
 
 This is the last stash commit.
+
+Final statement.
